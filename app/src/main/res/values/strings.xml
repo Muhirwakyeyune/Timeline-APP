@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TIMELINE</string>
+    <string name="welcome_again">WELCOME AGAIN!</string>
+    <string name="event">Event:</string>
+</resources>
